@@ -1,6 +1,6 @@
 At the beginning..
 Trainer making changes
-JUNK ON
+JUNK ON RED
 Server side change...
 Another change..
-put something at the bottom of the file.
+put something at the bottom of the file. 
